@@ -1,7 +1,6 @@
 #syntax of enumerate funtion
 # enumerate(iterables,start=_) __>iterables=list,tuples,strings  start=tells it from where the index start
 # so it returns the index first and the value of each elements of the iterable
-from tkinter.font import names
 
 name_lists= ['yibeltal','temesgen','abaynew']
 
